@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RevolutTestApplication</string>
+    <string name="error">an error has occurred</string>
+    //error messages
+    <string name="HTTP_UNAUTHORIZED">(HTTP_UNAUTHORIZED) error has occurred</string>
+    <string name="HTTP_FORBIDDEN">(HTTP_FORBIDDEN) error has occurred</string>
+    <string name="HTTP_INTERNAL_ERROR">(HTTP_INTERNAL_ERROR) error has occurred</string>
+    <string name="HTTP_NOT_FOUND">(HTTP_NOT_FOUND) error has occurred</string>
+
+</resources>
